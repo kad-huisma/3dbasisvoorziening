@@ -46,6 +46,11 @@ var respecConfig =
       companyURL: "https://www.kadaster.nl/",
     },
     {
+      name: "Anouk Huisman - van Zijp",
+      company: "Kadaster",
+      companyURL: "https://www.kadaster.nl/",
+    },
+    {
       name: "Marc Post",
       company: "Kadaster",
       companyURL: "https://www.kadaster.nl/",
